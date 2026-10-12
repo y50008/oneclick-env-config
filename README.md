@@ -83,7 +83,7 @@
 
 ## 使用
 
-**普通用户**：下载 `dist/一键环境配置.exe`，双击运行。exe 里打包好了 Python 运行时，不需要本机装任何东西。选路线 → 勾工具 → 点「安装 / 打开」。
+**普通用户**：从 [Releases 页面](https://github.com/y50008/oneclick-env-config/releases/latest) 下载 `oneclick-env-config.exe`（或 [直接下载 v0.2.7](https://github.com/y50008/oneclick-env-config/releases/download/v0.2.7/oneclick-env-config.exe)），双击运行。exe 里打包好了 Python 运行时，不需要本机装任何东西。选路线 → 勾工具 → 点「安装 / 打开」。
 
 > ⚠️ 免安装版运行配置期间别关窗口，关了任务就不会继续了。软件介绍和作者在右上角「关于」里。
 
