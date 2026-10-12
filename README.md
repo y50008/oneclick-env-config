@@ -1,10 +1,9 @@
 # 一键环境配置（OneClick Env Config）
 
-一个 Windows 下的一键环境安装与配置工具。面向开发者和游戏玩家：选一条职业路线，勾上要装的工具和版本，点一下，剩下的下载、安装、配环境变量我来做。
+一个一键环境安装与配置工具。面向开发者和游戏玩家：选一条职业路线，勾上要装的工具和版本，点一下，剩下的下载、安装、配环境变量我来做。
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](#)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)](#)
 [![Version](https://img.shields.io/badge/Version-v0.2.7-orange)](#)
 
 ---
