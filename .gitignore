@@ -1,0 +1,13 @@
+# 构建产物
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec.bak
+
+# 临时文件
+_*.py
+_*.ps1
+_*.txt
+_*.json
+*.log
